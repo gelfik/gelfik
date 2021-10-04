@@ -5,16 +5,16 @@
 ## My projects:
 — Online School - [izzibraindev.gelfik.dev](https://izzibraindev.gelfik.dev) - Shop and Learning platform - "Django REST" and "React".
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=OnlineSchoolDRF&theme=dark&hide_border=true)](https://prototipe.gelfik.dev)
-![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=django_react_test&theme=dark&hide_border=true)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=OnlineSchoolDRF&theme=dark&hide_border=true)](https://github.com/gelfik/OnlineSchoolDRF)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=django_react_test&theme=dark&hide_border=true)](https://github.com/gelfik/django_react_test)
 
 — Test shell - [prototipe.gelfik.dev](https://prototipe.gelfik.dev) - Test shell on the subject of MIPS - "Django".
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=prototipe-django&theme=dark&hide_border=true)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=prototipe-django&theme=dark&hide_border=true)](https://github.com/gelfik/prototipe-django)
 
 — Flightplus - [flightplus.gelfik.dev](https://flightplus.gelfik.dev) - Online ticket office for the purchase of air tickets - "Tornado".
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=flightplus-tornado&theme=dark&hide_border=true)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=flightplus-tornado&theme=dark&hide_border=true)](https://github.com/gelfik/flightplus-tornado)
 
 ## Other
 ![](https://github-readme-stats.vercel.app/api?username=gelfik&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
