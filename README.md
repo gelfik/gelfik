@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=OnlineSchoolDRF&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=django_react_test&theme=dark&hide_border=true)
 
-— Test shell - [mips.gelfik.dev](https://mips.gelfik.dev) - Test shell on the subject of MIPS - "Django".
+— Test shell - [prototipe.gelfik.dev](https://prototipe.gelfik.dev) - Test shell on the subject of MIPS - "Django".
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=prototipe-django&theme=dark&hide_border=true)
 
