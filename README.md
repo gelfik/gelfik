@@ -1,18 +1,32 @@
 ## Hi, Friend! 👋🏻 I'm Bulat Gilfanov 😇
 
+![GitHub followers](https://img.shields.io/github/followers/gelfik?label=Follow%20me&style=social)
+
 — I'm coding on Python, JS, React 😱
 
 ## My projects:
-— Online School - [izzibraindev.gelfik.dev](https://izzibraindev.gelfik.dev) - Shop and Learning platform - "Django REST" and "React".
+* Online School - [izzibraindev.gelfik.dev](https://izzibraindev.gelfik.dev) - Shop and Learning platform - "Django REST" and "React". ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789362933-76bebfd87184c57fccb2f8a2?style=plastic)
+
+  * OnlineSchoolDRF - ![GitHub repo size](https://img.shields.io/github/repo-size/gelfik/OnlineSchoolDRF?color=succes&style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/gelfik/OnlineSchoolDRF?color=success&label=line%20code&style=plastic)
+
+  * django_react_test - ![GitHub repo size](https://img.shields.io/github/repo-size/gelfik/django_react_test?color=succes&style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/gelfik/django_react_test?color=success&label=line%20code&style=plastic)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=OnlineSchoolDRF&theme=dark&hide_border=true&locale=RU)](https://github.com/gelfik/OnlineSchoolDRF)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=django_react_test&theme=dark&hide_border=true&locale=RU)](https://github.com/gelfik/django_react_test)
 
-— Test shell - [prototipe.gelfik.dev](https://prototipe.gelfik.dev) - Test shell on the subject of MIPS - "Django".
+* Test shell - [prototipe.gelfik.dev](https://prototipe.gelfik.dev) - Test shell on the subject of MIPS - "Django". ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789362955-a6306bfa213ad4615b219e32?style=plastic)
+
+  * ![GitHub repo size](https://img.shields.io/github/repo-size/gelfik/prototipe-django?color=succes&style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/gelfik/prototipe-django?color=success&label=line%20code&style=plastic)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=prototipe-django&theme=dark&hide_border=true)](https://github.com/gelfik/prototipe-django)
 
-— Flightplus - [flightplus.gelfik.dev](https://flightplus.gelfik.dev) - Online ticket office for the purchase of air tickets - "Tornado".
+* Flightplus - [flightplus.gelfik.dev](https://flightplus.gelfik.dev) - Online ticket office for the purchase of air tickets - "Tornado". ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789362969-1b1016050a1df7d8d7b11572?style=plastic)
+
+  * ![GitHub repo size](https://img.shields.io/github/repo-size/gelfik/flightplus-tornado?color=succes&style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/gelfik/flightplus-tornado?color=success&label=line%20code&style=plastic)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=flightplus-tornado&theme=dark&hide_border=true)](https://github.com/gelfik/flightplus-tornado)
 
