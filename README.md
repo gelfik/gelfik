@@ -5,8 +5,8 @@
 ## My projects:
 — Online School - [izzibraindev.gelfik.dev](https://izzibraindev.gelfik.dev) - Shop and Learning platform - "Django REST" and "React".
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=OnlineSchoolDRF&theme=dark&hide_border=true)](https://github.com/gelfik/OnlineSchoolDRF)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=django_react_test&theme=dark&hide_border=true)](https://github.com/gelfik/django_react_test)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=OnlineSchoolDRF&theme=dark&hide_border=true&locale=RU)](https://github.com/gelfik/OnlineSchoolDRF)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gelfik&repo=django_react_test&theme=dark&hide_border=true&locale=RU)](https://github.com/gelfik/django_react_test)
 
 — Test shell - [prototipe.gelfik.dev](https://prototipe.gelfik.dev) - Test shell on the subject of MIPS - "Django".
 
