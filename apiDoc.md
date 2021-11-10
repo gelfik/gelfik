@@ -7,6 +7,8 @@ API BASE URL = http://127.0.0.1:8000/api
 * parametr = {email: "email", password: "password"} 
 * Авторизация требуется для создания, редактирвоания и удаления опроса. А так же возможно прохождение опроса не анонимно. Ниже будут помечены запросы, которые требуют авторизацию.
 
+# Управление опросами
+## Опросы
 ### Создание опроса 
 * url = /survey/create
 * method = POST
@@ -28,6 +30,16 @@ API BASE URL = http://127.0.0.1:8000/api
 * url = /survey/manage/{idSurvey}
 * method = DELETE
 * *Авторизация*. Опрос будет удален. При успешкном удалении, код ответа 204.
+
+## Вопросы
+### Удаление опроса 
+* url = /survey/{idSurvey}/create
+* method = POST
+* parametr
+  * {ask: "Вопрос?", answerInput: "текстовый ответ на вопрос"}
+  * {ask: "Вопрос?", answerListData: [{"answer": "Ответ 1", "validStatus": true}, {"answer": "Ответ 2", "validStatus": false}]}
+  * {ask: "Вопрос?", answerListData: [{"answer": "Ответ 1", "validStatus": true}, {"answer": "Ответ 2", "validStatus": true}], isMulti: true}
+* *Авторизация*. В ответ будет получен созданый вопрос. При создании вопроса с выбором, то нужно минимум 2 овтета и должен быть один верный ответ и только, но если параметр isMulti установить в true, то можно указать несколько верныхъ ответов.
 
 ### Получить список всех доступных опросов 
 * url = /survey/list
