@@ -18,12 +18,12 @@ API BASE URL = http://127.0.0.1:8000/api
 * *Авторизация*. После создания, будет получен созданый опрос, с пустым списокм вопросов, а так же уникальный id опроса, для последующего управления созданным опросом.
 
 ### Получение данных опроса 
-* url = /survey/manage/{idSurvey}
+* url = /survey/manage/{surveyID}
 * method = GET
 * *Авторизация*. Будут получены последнии данный опроса со списоком вопросов.
 
 ### Редактирование данных опроса 
-* url = /survey/manage/{idSurvey}
+* url = /survey/manage/{surveyID}
 * method = PUT
 * parametr = {name: "name", description: "description", endDate: "endDate"}
 * *Авторизация*. После отправки запроса, он будет получен, как, был бы получен при запросе GET
@@ -35,7 +35,7 @@ API BASE URL = http://127.0.0.1:8000/api
 
 ## Управление вопросами - все запросы требуют авторизации
 ### Создание вопроса
-* url = /survey/{idSurvey}/create
+* url = /survey/{surveyID}/create
 * method = POST
 * parametr
   * {ask: "Вопрос?", answerInput: "текстовый ответ на вопрос"}
@@ -44,12 +44,12 @@ API BASE URL = http://127.0.0.1:8000/api
 * *Авторизация*. В ответ будет получен созданый вопрос. При создании вопроса с выбором, то нужно минимум 2 овтета и должен быть один верный ответ и только, но если параметр isMulti установить в true, то можно указать несколько верныхъ ответов.
 
 ### Получение данных вопроса 
-* url = /survey/{idSurvey}/manage/{askID}
+* url = /survey/{surveyID}/manage/{askID}
 * method = GET
 * *Авторизация*. Будут получены последнии данный вопроса.
 
 ### Редактирование вопроса
-* url = /survey/{idSurvey}/manage/{askID}
+* url = /survey/{surveyID}/manage/{askID}
 * method = PUT
 * parametr
   * {ask: "Вопрос?", answerInput: "текстовый ответ на вопрос"}
@@ -60,10 +60,15 @@ API BASE URL = http://127.0.0.1:8000/api
 * *Авторизация*. При редактировании ответа с выбором, для сохранения старых ответов, обязательно нужно передавать данные совместно с answerID. Так же можно отедельно отправлять параметры (ask, answerInput, answerListData). При отправке answerListData нужно обязательно отправить минимум 2 варианта ответа.
 
 ### Удаление вопроса 
-* url = /survey/{idSurvey}/manage/{askID}
+* url = /survey/{surveyID}/manage/{askID}
 * method = DELETE
 * *Авторизация*. Вопрос будет удален. При успешном удалении, код ответа 204.
 
+## Прохождение опросов
 ### Получить список всех доступных опросов 
 * url = /survey/list
+* method = GET
+
+### Получить данные опроса
+* url = /survey/{surveyID}
 * method = GET
