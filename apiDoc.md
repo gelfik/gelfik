@@ -32,7 +32,7 @@ API BASE URL = http://127.0.0.1:8000/api
 ### Удаление опроса 
 * url = /survey/manage/{idSurvey}
 * method = DELETE
-* *Авторизация*. Опрос будет удален. При успешкном удалении, код ответа 204.
+* *Авторизация*. Опрос будет удален. При успешном удалении, код ответа 204.
 
 ## Вопросы
 ### Создание вопроса
@@ -43,6 +43,22 @@ API BASE URL = http://127.0.0.1:8000/api
   * {ask: "Вопрос?", answerListData: [{"answer": "Ответ 1", "validStatus": true}, {"answer": "Ответ 2", "validStatus": false}]}
   * {ask: "Вопрос?", answerListData: [{"answer": "Ответ 1", "validStatus": true}, {"answer": "Ответ 2", "validStatus": true}], isMulti: true}
 * *Авторизация*. В ответ будет получен созданый вопрос. При создании вопроса с выбором, то нужно минимум 2 овтета и должен быть один верный ответ и только, но если параметр isMulti установить в true, то можно указать несколько верныхъ ответов.
+
+### Редактирование вопроса
+* url = /survey/{idSurvey}/manage/{askID}
+* method = PUT
+* parametr
+  * {ask: "Вопрос?", answerInput: "текстовый ответ на вопрос"}
+  * {ask: "Вопрос?"}
+  * {ask: "Вопрос?", answerListData: [{"answer": "Ответ 1", "validStatus": true}, {"id": {answerID}, "answer": "Ответ 2", "validStatus": false}]}
+  * {ask: "Вопрос?", answerListData: [{"id": {answerID}, "answer": "Ответ 1", "validStatus": true}, {"id": {answerID}, "answer": "Ответ 2", "validStatus": false}, {"answer": "Ответ 3", "validStatus": false}]}
+  * {ask: "Вопрос?", answerListData: [{"id": {answerID}, "answer": "Ответ 1", "validStatus": true}, {"answer": "Ответ 2", "validStatus": true}], isMulti: true}
+* *Авторизация*. При редактировании ответа с выбором, для сохранения старых ответов, обязательно нужно передавать данные совместно с answerID. Так же можно отедельно отправлять параметры (ask, answerInput, answerListData). При отправке answerListData нужно обязательно отправить минимум 2 варианта ответа.
+
+### Удаление вопроса 
+* url = /survey/{idSurvey}/manage/{askID}
+* method = DELETE
+* *Авторизация*. Вопрос будет удален. При успешном удалении, код ответа 204.
 
 ### Получить список всех доступных опросов 
 * url = /survey/list
