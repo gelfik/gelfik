@@ -81,11 +81,6 @@ API BASE URL = http://127.0.0.1:8000/api
 * url = /result/answer
 * method = PUT
 * parametr
-  * {"survey": 2, 
-"isAnon": true,
-"resultList": [
-    {"ask": 1, "answerInput": "Кодю"}, 
-    {"ask": 2, "answerList": [{"id": 1}]}, 
-    {"ask": 3, "answerList": [{"id": 5}, {"id": 3}]}
-    ]}
-* *Авторизация*. При редактировании ответа с выбором, для сохранения старых ответов, обязательно нужно передавать данные совместно с answerID. Так же можно отедельно отправлять параметры (ask, answerInput, answerListData). При отправке answerListData нужно обязательно отправить минимум 2 варианта ответа.
+  * {"survey": {surveyID}, "isAnon": false, "user": {userID}, "resultList": [{"ask": {askID}, "answerInput": "TextAnswer"}, {"ask": {askID}, "answerList": [{"id": answerListAnswerID}]}, {"ask": {askID}, "answerList": [{"id": answerListAnswerID}, {"id": answerListAnswerID}]}]}
+  * {"survey": {surveyID}, "isAnon": true, "resultList": [{"ask": {askID}, "answerInput": "TextAnswer"}, {"ask": {askID}, "answerList": [{"id": answerListAnswerID}]}, {"ask": {askID}, "answerList": [{"id": answerListAnswerID}, {"id": answerListAnswerID}]}]}
+* Что бы пройти анонимно тест, достаточно отправить параметр "isAnon" со значением "true", либо отрпавить параметр "user" с уникальным id пользователя. Число ответов и вопросов в тесте должно совпадать, иначе выйдет уведомление об ошибке.
