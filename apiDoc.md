@@ -69,6 +69,23 @@ API BASE URL = http://127.0.0.1:8000/api
 * url = /survey/list
 * method = GET
 
-### Получить данные опроса
+### Получить данные выбранного опроса по id
 * url = /survey/{surveyID}
 * method = GET
+
+### Получить список пройденых опросов определенного юзера по его id
+* url = /survey/result/{userID}
+* method = GET
+
+### Прохождение опроса
+* url = /result/answer
+* method = PUT
+* parametr
+  * {"survey": 2, 
+"isAnon": true,
+"resultList": [
+    {"ask": 1, "answerInput": "Кодю"}, 
+    {"ask": 2, "answerList": [{"id": 1}]}, 
+    {"ask": 3, "answerList": [{"id": 5}, {"id": 3}]}
+    ]}
+* *Авторизация*. При редактировании ответа с выбором, для сохранения старых ответов, обязательно нужно передавать данные совместно с answerID. Так же можно отедельно отправлять параметры (ask, answerInput, answerListData). При отправке answerListData нужно обязательно отправить минимум 2 варианта ответа.
