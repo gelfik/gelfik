@@ -22,6 +22,7 @@ jobs:
           TIME_RANGE: last_30_days
       - uses: anmol098/waka-readme-stats@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
