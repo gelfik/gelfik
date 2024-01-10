@@ -5,7 +5,9 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 3 hours
-    - cron: "0 */3 * * *"
+    # - cron: "0 */3 * * *"
+    # Runs every 5 min
+    - cron: "*/5 * * * *"
 
 jobs:
   update-readme:
@@ -18,3 +20,8 @@ jobs:
           LANG_COUNT: 10
           SHOW_TOTAL: true
           TIME_RANGE: last_30_days
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
