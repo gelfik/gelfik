@@ -1,5 +1,5 @@
 ## Hi, Friend! 👋🏻 I'm Bulat Gilfanov 😇
-
+![](https://komarev.com/ghpvc/?username=gelfik)
 ![GitHub followers](https://img.shields.io/github/followers/gelfik?label=Follow%20%20me&style=social)
 
 — I'm coding on Python, JS, React 😱
