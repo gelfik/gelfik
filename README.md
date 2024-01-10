@@ -36,13 +36,16 @@ Sunday                   250 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 47 mins        ████████████████████████░   96.56 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 47 mins        ████████████████████████░   96.56 % 
+PyCharm                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,7 +65,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gelfik/gelfik/main/assets/bar_graph.png)
 
 
- Last Updated on 21:09:26 10.01.2024 UTC
+ Last Updated on 21:11:56 10.01.2024 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
