@@ -14,16 +14,19 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LANG_COUNT: 10
-          SHOW_TOTAL: true
-          TIME_RANGE: last_30_days
+      # - uses: athul/waka-readme@master # this action name
+      #   with:
+      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      #     LANG_COUNT: 10
+      #     SHOW_TOTAL: true
+      #     TIME_RANGE: last_30_days
       - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "False"
+          UPDATED_DATE_FORMAT: "%H:%M:%S %d.%m.%Y"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TIMEZONE: "False"
           SHOW_PROJECTS: "False"
-          LOCALE: ru
+          SHOW_SHORT_INFO: "False"
+          DEBUG_LOGGING: "False"
