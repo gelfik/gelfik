@@ -4,6 +4,9 @@
 
 — I'm coding on Python, JS, React 😱
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## My projects:
 * Online School - [izzibraindev.gelfik.dev](https://izzibraindev.gelfik.dev) - Shop and Learning platform - "Django REST" and "React". ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789362933-76bebfd87184c57fccb2f8a2?style=plastic)
 
