@@ -5,9 +5,9 @@
 — I'm coding on Python, JS, React 😱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -53,17 +53,17 @@ Mac                      0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            █████████████░░░░░░░░░░░░   51.06 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   23 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 18:17:59 15.05.2024 UTC
+ Last Updated on 21:14:19 15.05.2024 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
