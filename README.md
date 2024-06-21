@@ -5,7 +5,7 @@
 — I'm coding on Python, JS, React 😱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -63,7 +63,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12:26:34 21.06.2024 UTC
+ Last Updated on 15:19:45 21.06.2024 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
