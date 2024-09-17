@@ -5,7 +5,7 @@
 — I'm coding on Python, JS, React 😱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,13 +36,17 @@ Sunday                   303 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               10 mins             ██████████████░░░░░░░░░░░   55.35 % 
+Bash                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -58,7 +62,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18:21:14 16.09.2024 UTC
+ Last Updated on 00:59:04 17.09.2024 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
