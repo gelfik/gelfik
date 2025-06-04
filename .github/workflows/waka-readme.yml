@@ -31,3 +31,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           DEBUG_LOGGING: "False"
+          SHOW_PROFILE_VIEWS: "False"
