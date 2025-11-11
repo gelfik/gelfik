@@ -34,13 +34,15 @@ Sunday                   339 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              ███████████████████░░░░░░   76.52 % 
+.env file                0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+SCSS                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -56,7 +58,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21:17:56 10.11.2025 UTC
+ Last Updated on 01:25:33 11.11.2025 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
