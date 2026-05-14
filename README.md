@@ -5,43 +5,7 @@
 — I'm coding on Python, JS, React 😱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C413%20hrs%2039%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-🌆 Daytime                341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌃 Evening                429 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-🌙 Night                  1358 commits        ███████████████░░░░░░░░░░   59.25 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   619 commits         ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-Tuesday                  335 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Wednesday                398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Thursday                 236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Friday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Sunday                   351 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -56,7 +20,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19:44:38 14.05.2026 UTC
+ Last Updated on 22:11:03 14.05.2026 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
