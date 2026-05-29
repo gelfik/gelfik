@@ -34,15 +34,13 @@ Sunday                   351 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████░░░░   83.45 % 
-Bash                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -58,7 +56,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22:41:41 28.05.2026 UTC
+ Last Updated on 03:29:16 29.05.2026 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
