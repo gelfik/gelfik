@@ -5,7 +5,7 @@
 — I'm coding on Python, JS, React 😱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C431%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C432%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2031%20mins-blue?style=flat)
 
@@ -36,17 +36,17 @@ Sunday                   351 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   28 mins             █████████████████████░░░░   82.15 % 
-TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   1 hr 48 mins        ██████████████████████░░░   88.23 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  34 mins             █████████████████████████   100.00 % 
+PyCharm                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,7 +68,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21:07:39 25.09.2026 UTC
+ Last Updated on 03:36:46 26.09.2026 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
