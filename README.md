@@ -36,17 +36,17 @@ Sunday                   351 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 25 mins        █████████████████████░░░░   85.47 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 20 mins        ███████████████████████░░   90.64 % 
+TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 39 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,7 +68,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 00:32:21 02.10.2026 UTC
+ Last Updated on 09:23:38 02.10.2026 UTC
 <!--END_SECTION:waka-->
 
 ## My projects:
